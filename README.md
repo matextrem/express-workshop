@@ -1,4 +1,4 @@
-<img src="https://github.com/node-girls/workshop-cms/blob/master/readme-images/logo.png?raw=true">
+<img src="https://blog.keycdn.com/blog/wp-content/uploads/2017/10/nodejs-banner.png">
 
 
 # Express Workshop

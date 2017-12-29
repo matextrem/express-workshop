@@ -53,7 +53,7 @@ $ npm init
 
 This command will initialise a step-by-step process for creating the `package.json`. You should see something like this:
 
-![starting npm init](https://raw.githubusercontent.com/node-girls/workshop-cms/master/readme-images/step1-npm-init01.png)
+![starting npm init](https://image.ibb.co/iFepNG/Screen_Shot_2017_12_29_at_13_51_37.png)
 
 It will ask you the following questions:
 
@@ -89,7 +89,7 @@ It will ask you the following questions:
 
 You will see a confirmation of your `package.json`. If you're happy with it, press `Enter` to finalise its creation.
 
-![package.json confirmation](https://raw.githubusercontent.com/node-girls/workshop-cms/master/readme-images/step1-npm-init02.png)
+![package.json confirmation](https://image.ibb.co/gswsbb/Screen_Shot_2017_12_29_at_13_54_59.png)
 
 Great! You should now see a new file called `package.json` in your project's folder.
 

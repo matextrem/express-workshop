@@ -615,6 +615,6 @@ If all goes well, you should have a fully functional CMS!
 * [Command line cheatsheet](https://github.com/node-girls/cheatsheets/blob/master/command-line-cheatsheet.md)
 
 ### Credits
- Aldo Sorbara (aldo.sorbara@mercadolibre.com)
- Sebastian Gonzalez (sebastian.sgonzalez@mercadolibre.com)
- Matias Dastugue (matias.dastugue@mercadolibre.com)
+ * Aldo Sorbara (aldo.sorbara@mercadolibre.com)
+ * Sebastian Gonzalez (sebastian.sgonzalez@mercadolibre.com)
+ * Matias Dastugue (matias.dastugue@mercadolibre.com)

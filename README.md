@@ -613,3 +613,8 @@ If all goes well, you should have a fully functional CMS!
 * [What is Node?](https://github.com/node-girls/what-is-node)
 * [Node cheatsheet](https://github.com/node-girls/cheatsheets/blob/master/node-cheatsheet.md)
 * [Command line cheatsheet](https://github.com/node-girls/cheatsheets/blob/master/command-line-cheatsheet.md)
+
+### Credits
+ Aldo Sorbara (aldo.sorbara@mercadolibre.com)
+ Sebastian Gonzalez (sebastian.sgonzalez@mercadolibre.com)
+ Matias Dastugue (matias.dastugue@mercadolibre.com)

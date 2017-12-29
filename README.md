@@ -283,7 +283,7 @@ app.get("/chocolate", function (req, res) {
 });
 ```
 
-*Challenge:* Add some code so that your server sends one message when the endpoint is `/node` and another one when it's `/girls`.
+*Challenge:* Add some code so that your server sends one message when the endpoint is `/node` and another one when it's `/meli`.
 
 # Step 6 - Serving static files
 

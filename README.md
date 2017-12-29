@@ -237,7 +237,7 @@ var express = require("express");
 var app = express();
 
 app.get("/", function (req, res) {
-  res.send("Yay Node Girls!");
+  res.send("Oi Melicidade!");
 });
 
 app.listen(3000, function () {
@@ -257,9 +257,9 @@ Now, open your favourite browser (we like Chrome), and navigate to `http://local
 
 # Step 5 - Routing
 
-At the moment our server only does one thing. When it receives a request from the `/` endpoint, it sends back the same response: "Yay Node Girls!".
+At the moment our server only does one thing. When it receives a request from the `/` endpoint, it sends back the same response: "Oi Melicidade!".
 
-Want to check? Try typing http://localhost:3000/nodegirls and see what happens.
+Want to check? Try typing http://localhost:3000/nodemeli-workshop and see what happens.
 
 However by making use of endpoints, we can make the server send different responses for different requests. This concept is called **routing**.
 
@@ -544,7 +544,7 @@ Express has a handy method called `res.sendFile()` that makes it easy to send fi
 
 If all goes well, you should have a fully functional CMS!
 
-## Congratulations!! 😍
+## Congratulations!! :dog:
 
 | Keyword | Explanation |
 |--------|:-------------------------------:|
